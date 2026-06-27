@@ -82,7 +82,7 @@ If you have experience with ESC/P-R, USB printer protocols, or CUPS internals, y
 
 ## License
 
-MIT. See `LICENSE`.
+GPL v3.0. See `LICENSE`.
 
 ---
 
