@@ -33,8 +33,8 @@ This project targets **one printer only**: the Epson L3110. No other models will
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| 0 | Research: USB, ESC/P-R, CUPS, existing projects | In progress |
-| 1 | Repository structure, Makefile, coding conventions | Pending |
+| 0 | Research: USB, ESC/P-R, CUPS, existing projects | Complete |
+| 1 | Repository structure, Makefile, coding conventions | In progress |
 | 2 | USB device detection and descriptor inspection | Pending |
 | 3 | USB communication: open, claim, send, receive | Pending |
 | 4 | Print a test page | Pending |
